@@ -1,0 +1,6 @@
+
+
+# link to set the permissions to start the nexus server
+
+https://help.sonatype.com/repomanager3/installation/run-as-a-service
+
